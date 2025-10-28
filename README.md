@@ -43,7 +43,7 @@ Hosting: Vercel, Netlify, or Render
 Follow these steps to set up the project locally 👇
 
 1. Clone the Repository
-git clone https://github.com/your-username/universe-hackathon.git
+git clone https://github.com/Jitesh-Yadav01/universe-hackathon.git
 cd universe-hackathon
 
 2. Install Dependencies
@@ -63,7 +63,7 @@ npm run dev
 
 5. Open in Browser
 
-Visit http://localhost:3000
+Visit -
 
 📁 Folder Structure
 universe-hackathon/
