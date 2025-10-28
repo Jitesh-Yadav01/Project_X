@@ -2,9 +2,9 @@
 X.1
 
 
-🌌 Universe — Hackathon Website
+🌌 X.1 — Hackathon Website
 
-Universe is a modern, space-themed website built for hosting and managing hackathons.
+X.1 is a modern, space-themed website built for hosting and managing hackathons.
 It brings together participants, organizers, and judges under one interactive platform — with a sleek design inspired by the cosmos.
 
 🚀 Overview
@@ -43,7 +43,7 @@ Hosting: Vercel, Netlify, or Render
 Follow these steps to set up the project locally 👇
 
 1. Clone the Repository
-git clone https://github.com/Jitesh-Yadav01/universe-hackathon.git
+git clone https://github.com/Jitesh-Yadav01/X.1.git
 cd universe-hackathon
 
 2. Install Dependencies
