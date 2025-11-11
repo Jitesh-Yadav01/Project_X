@@ -1,4 +1,4 @@
-# AIT GDG Pune — Interactive README.md
+# AIT GDG Pune 
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white" alt="React"/>
