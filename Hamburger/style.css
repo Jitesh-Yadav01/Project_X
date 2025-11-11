@@ -1,0 +1,53 @@
+.menu-open-button .fa-times {
+  display: none;
+}
+.hamburger {
+  position: relative;
+  width: 400px;
+  height: 160px;
+}
+
+.menu-item {
+  background: #67243a;
+  border-radius: 100%;
+  width: 80px;
+  height: 80px;
+  color: aliceblue;
+  text-align: center;
+  line-height: 80px;
+  font-size: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transition: transform 0.4s cubic-bezier(.68,-0.55,.27,1.55), opacity 0.3s;
+  box-shadow: 0 2px 8px #0002;
+  border: none;
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.menu-item:hover {
+  background: #963;
+  color: #fff;
+  transform: scale(1.1) rotate(-8deg);
+}
+
+.menu-open-button {
+  background: #67243a;
+  border-radius: 100%;
+  width: 80px;
+  height: 80px;
+  color: #fff;
+  font-size: 2rem;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 2;
+  box-shadow: 0 2px 8px #0002;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
