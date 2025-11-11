@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="heart.css"  />
+</head>
+<body>
+   <div class="model-container" style="background-color: rgb(72, 72, 72);  width:100vw; height:100vh;">
+      <model-viewer
+        alt="3d model"
+        src="/assets/mwt_tu-222.glb"
+        autoplay
+        camera-controls
+        touch-actions="pan-y"
+        disable-zoom
+        camera-orbit="30deg 75deg 105%"
+        min-camera-orbit="auto 75deg auto"
+        max-camera-orbit="auto 75deg auto"
+      >
+      </model-viewer>
+    </div>
+
+    <script
+      type="module"
+      src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"
+    ></script>
+</body>
+</html>
